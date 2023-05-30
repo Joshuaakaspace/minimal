@@ -10,15 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+##Sentiment Analysis using Machine Learning:
+This project showcases sentiment analysis using machine learning techniques. It demonstrates how to preprocess text data, vectorize it using TF-IDF, and train a Linear Support Vector Machine (SVM) model for sentiment classification. The project utilizes the Scikit-learn library and provides an accuracy score for the model's performance.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+##Image Classification with Convolutional Neural Networks (CNN):
+This project focuses on image classification using deep learning and Convolutional Neural Networks (CNN). It demonstrates how to build and train a CNN model using popular deep learning frameworks like TensorFlow or PyTorch. The project includes an example of classifying images from a given dataset and provides accuracy metrics to evaluate the model's performance.
 
 ### Header 3
 
